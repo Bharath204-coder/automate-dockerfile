@@ -10,6 +10,8 @@ Automatically generate production-ready Dockerfiles using Local LLMs (Ollama + C
 
 ## 🎥 Demo
 <!-- Add your demo video/gif here -->
+<img width="800" height="425" alt="20260510-0334-44 4432515-ezgif com-optimize" src="https://github.com/user-attachments/assets/a180ef42-fa09-4315-af43-db4ed44fc96a" />
+
 
 ## 🏗️ Architecture
 ```
