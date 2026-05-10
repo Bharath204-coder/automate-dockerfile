@@ -95,6 +95,7 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 4. **Output** — saves Dockerfile and .dockerignore to your project folder
 
 ## 📁 Project Structure
+```
 automate-dockerfile/
 ├── main.py                   # Entry point
 ├── analyzer.py               # Project scanner
@@ -102,7 +103,7 @@ automate-dockerfile/
 ├── llm_client.py             # Ollama API client
 ├── dockerignore_generator.py # .dockerignore generator
 └── README.md
-
+```
 ## 🛠️ Built With
 - Python 3.x
 - Ollama
