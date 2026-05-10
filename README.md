@@ -90,6 +90,8 @@ EXPOSE 8000
 HEALTHCHECK --interval=5s --timeout=3s CMD curl -f http://localhost:8000 || exit 1
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 ```
+<img width="1569" height="967" alt="AdobeExpressPhotos_5c4144fed83a4a00949aa97c29bf9720_CopyEdited" src="https://github.com/user-attachments/assets/89edef90-7e44-40c6-8919-d4ca8ff4ae96" />
+
 
 ## 🔧 How it works
 1. **Analyzer** — scans project files, detects language, framework, dependencies and port
@@ -107,9 +109,6 @@ automate-dockerfile/
 ├── dockerignore_generator.py # .dockerignore generator
 └── README.md
 ```
-<img width="1569" height="967" alt="AdobeExpressPhotos_5c4144fed83a4a00949aa97c29bf9720_CopyEdited" src="https://github.com/user-attachments/assets/89edef90-7e44-40c6-8919-d4ca8ff4ae96" />
-
-
 ## 🛠️ Built With
 - Python 3.x
 - Ollama
