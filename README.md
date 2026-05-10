@@ -120,4 +120,4 @@ Pull requests are welcome!
 MIT License
 
 ## 👨‍💻 Author
-Bharath
+Bharath C M
