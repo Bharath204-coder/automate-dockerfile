@@ -12,16 +12,17 @@ Automatically generate production-ready Dockerfiles using Local LLMs (Ollama + C
 <!-- Add your demo video/gif here -->
 
 ## 🏗️ Architecture
+```
 Your Project Folder
-↓
+        ↓
 Python Analyzer (detects language, framework, port, deps)
-↓
+        ↓
 Prompt Builder (builds smart prompt)
-↓
+        ↓
 Ollama + CodeLlama (local LLM)
-↓
+        ↓
 Dockerfile + .dockerignore
-
+```
 ## 🌐 Supported Languages & Frameworks
 | Language | Frameworks |
 |----------|------------|
